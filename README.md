@@ -85,7 +85,7 @@ public class AliRaza : GameDeveloper
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ali-raza-4454aa253/)
-[![Team Email](https://img.shields.io/badge/Team%20Email-DeveloperHNYAR-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:developerhnyar@gmail.com)
+[![DeveloperHNYAR](https://img.shields.io/badge/TEAM-FF6B35?style=for-the-badge&logo=yourteamlogo&logoColor=white)](mailto:developerhnyar@gmail.com)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:raza61562@gmail.com)
 
 </div>
